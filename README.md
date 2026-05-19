@@ -8,7 +8,7 @@ Here's a little about me:
 - ⚡ I've previously worked at..
   -  ForeVR Games (Titles: ForeVR Bowl, ForeVR Darts)
   -  Maxis (Titles The Sims 4, Sims City 2013)
-  -  Electronic Arts (Titels: Deadspace, Dantes Inferno) 
+  -  Electronic Arts (Titles: Deadspace, Dantes Inferno) 
 - 🌱 I’m currently learning to work with local LLM's
 - 💬 Ask me about game development, game design, and software development
 - ⚡ Fun fact: I have 1 dog and 1 cat
