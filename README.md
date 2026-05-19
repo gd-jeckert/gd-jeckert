@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**gd-jeckert/gd-jeckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Joel Eckert, and I'm a Game Designer with over 18 years of experiance working in various design and coding roles throughout the industry.
 
-Here are some ideas to get you started:
+Here's a little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at Arenanet, on Guild Wars 2
+- ⚡ I've previously worked at..
+  -  ForeVR Games (Titles: ForeVR Bowl, ForeVR Darts)
+  -  Maxis (Titles The Sims 4, Sims City 2013)
+  -  Electronic Arts (Titels: Deadspace, Dantes Inferno) 
+- 🌱 I’m currently learning to work with local LLM's
+- 💬 Ask me about game development, game design, and software development
+- ⚡ Fun fact: I have 1 dog and 1 cat
