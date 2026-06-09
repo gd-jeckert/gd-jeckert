@@ -4,7 +4,7 @@ My name is Joel Eckert, and I'm a Game Designer with over 18 years of experiance
 
 Here's a little about me:
 
-- 🔭 I’m currently working at Arenanet, on Guild Wars 2
+- 🔭 I’m currently working at Arenanet, on Guild Wars 3
 - ⚡ I've previously worked at..
   -  ForeVR Games (Titles: ForeVR Bowl, ForeVR Darts)
   -  Maxis (Titles The Sims 4, Sims City 2013)
